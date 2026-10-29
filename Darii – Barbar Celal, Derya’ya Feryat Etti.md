@@ -8,6 +8,6 @@ Darii'de “a”, “i” ve “i” var. Darii de birinci kalıp, “Barbar Cel
 
 Dr. Rimbo’nun hikâyesini hatırlıyor musunuz? Külliyatın son eseri. Ne diyordu: “Unuttun mu, Rimbo?! Hani, kavram ve kelime aynı şeydi senin için? ‘Zihnimdeki her düşünce dilimde.’ dememiş miydin? Şimdi neden gerçeği gizler oldun? Ölümün sana ne kadar yakın olduğunu bilmediğimi mi sandın?! Hem, sen dememiş miydin her şeyin bir sonu olduğunu? Yazarlığın bir sonu yok mu? Yoksa insan değil misin? Bunca sene kandırdın mı beni? Hani her yazar ölümsüzdü, Rimbo?! Yoksa yazar değil misin?!”
 
-Büyük önerme tümel olumlu (A) yani MaP olacak: Her insan (M) ölümlüdür (P).
-Küçük önerme tikel olumlu (I) yani SiM: Bazı yazarlar (S) insandır (M).
+Büyük önerme tümel olumlu (A) yani MaP olacak: Her insan (M) ölümlüdür (P).  
+Küçük önerme tikel olumlu (I) yani SiM: Bazı yazarlar (S) insandır (M).  
 Sonuç tikel olumlu (I) yani SiP olacak: O hâlde, bazı yazarlar (S) ölümlüdür (P).
