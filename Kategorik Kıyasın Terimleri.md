@@ -42,8 +42,8 @@ Büyük terim küçük önermede geçmez. Küçük terim büyük önermede geçm
 
 Kısaca şöyle:
 
-Büyük önermede orta ve büyük terim var.
-Küçük önermede küçük ve orta terim var.
+Büyük önermede orta ve büyük terim var.  
+Küçük önermede küçük ve orta terim var.  
 Sonuç önermesinde küçük ve büyük terim var.
 
 Aklınızda tutmakta zorlanırsanız sonuç önermesinde ikisinin de (büyük terimin de küçük terimin de) olduğunu hatırlayın. Gerisi çok kolay. Büyük terim büyük önermede, küçük terim küçük önermede. Orta terime ne oldu? O da ilk ikisinde olacak. Bu kadar basit. Tekrar ede ede oturur.
