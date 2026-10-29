@@ -5,8 +5,6 @@ title: mantik.blog
 
 # mantik.blog
 
-## Habil Özdemir'in Kaleminden
-
 <ul>
   {% assign sayfalar = site.pages | sort: 'name' %}
   {% for page in sayfalar %}
