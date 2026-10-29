@@ -2,22 +2,22 @@ Her kıyasın sonuç önermesinde önce küçük terim, sonra büyük terim yer 
 
 “Bütün insanlar ölümlüdür. Habil bir insandır. O hâlde Habil ölümlüdür.” gibi bir akıl yürütmenin ilk önermesinde orta ve büyük terim, ikinci önermede küçük ve orta terim var.
 
-M P
+M P  
 S M
 
 söz konusu.
 
-P M
+P M  
 S M
 
 de söz konusu olabilirdi. O hâlde örneğimiz “Bütün ölümlüler beslenmek zorundadır. Hiçbir televizyon beslenmek zorunda değildir. O hâlde hiçbir televizyon ölümlü değildir.” olabilir.
 
-M P
+M P  
 M S
 
 de söz konusu olabilirdi. Mesela “Bütün insanlar ölümlüdür. Bütün insanlar akıl sahibidir. O hâlde bazı akıl sahipleri ölümlüdür.”
 
-P M
+P M  
 M S
 
 de olabilirdi. Buna da örnek verelim: “Bütün ölümlüler canlıdır. Hiçbir canlı, televizyon değildir. O hâlde hiçbir televizyon ölümlü değildir.”
