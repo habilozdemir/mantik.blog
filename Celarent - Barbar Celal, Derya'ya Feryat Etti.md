@@ -12,18 +12,18 @@ Büyük önerme (MeP) şu olsun (en kolay örneği aradım): Hiçbir insan sinca
 
 Geçimimi yatırım portföyümden sağladığım için yatırım konulu bir örnek de vermek istiyorum. Yatırımcılar için faydalı olacaktır.
 
-TÜMEL OLUMSUZ (E): Hiçbir fiktif kazanç gerçekleşmiş değildir.
-TÜMEL OLUMLU (A): Kâğıt üzerindeki her kazanç fiktif kazançtır.
+TÜMEL OLUMSUZ (E): Hiçbir fiktif kazanç gerçekleşmiş değildir.  
+TÜMEL OLUMLU (A): Kâğıt üzerindeki her kazanç fiktif kazançtır.  
 TÜMEL OLUMSUZ (E): O hâlde, kâğıt üzerindeki hiçbir kazanç gerçekleşmiş değildir.
 
 İki örnek daha yazayım.
 
-MeP: Çıkara dayalı hiçbir ilişki (M) dostluk değildir (P).
-SaM: Parayla satın alınabilen her ilişki (S) çıkara dayalı bir ilişkidir (M).
+MeP: Çıkara dayalı hiçbir ilişki (M) dostluk değildir (P).  
+SaM: Parayla satın alınabilen her ilişki (S) çıkara dayalı bir ilişkidir (M).  
 SeP: Parayla satın alınabilen hiçbir ilişki (S) dostluk değildir (P).
 
-Büyük önerme: Hiçbir âşık, Allah’ın ilhamından mahrum değildir.
-Küçük önerme: Her kim gönül aynasını temiz tutarsa o kimse âşıktır.
+Büyük önerme: Hiçbir âşık, Allah’ın ilhamından mahrum değildir.  
+Küçük önerme: Her kim gönül aynasını temiz tutarsa o kimse âşıktır.  
 Sonuç: Gönül aynasını temiz tutan hiç kimse Allah’ın ilhamından mahrum değildir.
 
 Elhamdülillah. Bir sonraki yazıda Darii üzerine konuşacağım.
