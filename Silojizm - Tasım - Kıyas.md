@@ -14,21 +14,21 @@ O hâlde bu kalbine girende özünü keşfettiren, sen olmanı sağlayan aşklar
 
 Kıyasın diğer adı silojizm. Bir diğer adı tasım. Üç sözcük eş anlamlı.
 
-Rusçadaki sillogizm de tıpkı Türkçede olduğu gibi “syllogismos” kelimesinden geliyor.
-Antik Yunancada “çıkarım yapma” demek syllogismos.
-Bütün insanlar ölümlüdür, Sokrates bir insandır, o hâlde Sokrates ölümlüdür örneğini (oldukça popüler) verebilirim.
-İki öncül ve sonuçtan oluşan bu formu Aristo ile öğrendik.
+Rusçadaki sillogizm de tıpkı Türkçede olduğu gibi “syllogismos” kelimesinden geliyor.  
+Antik Yunancada “çıkarım yapma” demek syllogismos.  
+Bütün insanlar ölümlüdür, Sokrates bir insandır, o hâlde Sokrates ölümlüdür örneğini (oldukça popüler) verebilirim.  
+İki öncül ve sonuçtan oluşan bu formu Aristo ile öğrendik.  
 Akıl yürütme söz konusu olduğunda en yaygın form budur.
 
-Genelden özele formunun yaygın olduğu kadar güvenilir olduğunu da söyleyebiliriz.
-Üzerinde sıkça durulmuş ve eleştirilmiştir.
-Zorunlu sonuçlar verir ama yeni bir bilgi üretmez.
-En yaygın eleştirilerden biri döngüsel kanıtlamalarda kullanılarak safsatalara alet edildiği yönünde.
+Genelden özele formunun yaygın olduğu kadar güvenilir olduğunu da söyleyebiliriz.  
+Üzerinde sıkça durulmuş ve eleştirilmiştir.  
+Zorunlu sonuçlar verir ama yeni bir bilgi üretmez.  
+En yaygın eleştirilerden biri döngüsel kanıtlamalarda kullanılarak safsatalara alet edildiği yönünde.  
 Leibniz'in "insan zihninin en güzel ve en önemli keşiflerinden biri” olarak nitelendirdiğini unutmamak lâzım.
 
-Doğruluğu mantıksal doğruluktan ayırmak bu noktada faydalı olabilir.
-Olgusal doğruluğu mantıksal doğruluktan ayırmak zorunda olduğumuzu savunan görüşler de var.
-Sound olan bir akıl yürütme valid olmak zorundadır ama valid bir akıl yürütme sound olmak zorunda değildir.
-Tam aksini düşünenler olsa da pratikte bu ayrım zorunlu olmuş durumda.
-Uzlaştırmak için her iki görüşü de yararlı olduğu noktalarda doğru kabul edebiliriz.
+Doğruluğu mantıksal doğruluktan ayırmak bu noktada faydalı olabilir.  
+Olgusal doğruluğu mantıksal doğruluktan ayırmak zorunda olduğumuzu savunan görüşler de var.  
+Sound olan bir akıl yürütme valid olmak zorundadır ama valid bir akıl yürütme sound olmak zorunda değildir.  
+Tam aksini düşünenler olsa da pratikte bu ayrım zorunlu olmuş durumda.  
+Uzlaştırmak için her iki görüşü de yararlı olduğu noktalarda doğru kabul edebiliriz.  
 Makul bir çözüm alana özel, faydalı olan yöntemleri benimsemek olabilir, zannediyorum.
