@@ -1,0 +1,572 @@
+=== Barbara - Barbar Celal, Derya'ya Feryat Etti ===
+
+Barbara ile başlayalım. İçinde üç tane “a” var. Demek ki büyük önerme de küçük önerme de sonuç önermesi de tümel olumlu (A) olacak.
+
+Kalıbı ne? Birinci kalıp.
+
+Yani:
+
+M P  
+S M  
+S P
+
+Eş deyişle, MaP, SaM, SaP. Buradaki (MaP, SaM, SaP) küçük “a” harfi tümel olumlu (A) anlamına gelir. Kalıbı (birinci mi, ikinci mi, üçüncü mü, dördüncü kalıp mı) “Barbara” kelimesine bakarak anlayamayız. Ezber yapacağız.
+
+Barbar Celal, Derya'ya feryat etti.
+O hâlde Barbara, Celarent, Darii ve Ferio birinci kalıp.
+
+Örnek verelim:
+
+TÜMEL OLUMLU (A): Bütün insanlar (M) ölümlüdür (P).  
+TÜMEL OLUMLU (A): Bütün yazarlar (S) insandır (M).  
+TÜMEL OLUMLU (A): O hâlde bütün yazarlar (S) ölümlüdür (P).
+
+Bir örnek daha vermek istiyorum:
+
+TÜMEL OLUMLU (A): Her yatırım aracı (M) risklidir (P).  
+TÜMEL OLUMLU (A): Her hisse senedi (S) bir yatırım aracıdır (M).  
+TÜMEL OLUMLU (A): O hâlde her hisse senedi (S) risklidir (P).
+
+------------------------------------------------------------
+
+=== Basit Döndürme - Arızi Döndürme ===
+
+Gaipten sesler duymaya başladım. “E ve I önermelerinin döndürülmesine ‘basit döndürme’ adını veriyoruz. A’ya neden bu adı vermiyoruz?” diye soruyorlar. Ben “SoP’un döndürmesi olmaz.” dedim ama konunun bununla ilgisi yokmuş. Meğer A’nın niceliği değişiyormuş. Döndürmeden önce tümelken döndürdükten sonra tikel oluyormuş. Niceliği değişene “basit döndürme” denmez imiş.
+
+A’yı tümel olarak döndürseydik doğruluk değeri değişirdi. “Tüm insanlar ölümlüdür.” deseydik “Tüm ölümlüler insandır.” demek zorunda kalırdık. İlk önerme doğruyken ikincisi neden yanlış? Öyle ki insandan başka ölümlüler vardır. Atlar, kuşlar, inekler, öküzler ölümlüdür. O hâlde “Bazı ölümlüler insandır.” demek zorundayız. Bu yüzdendir ki SaP döndürülünce PiS olur. Bu yüzdendir ki dönen A, I oluyor. A’nın döndürülmesine arızi döndürme denir. Bu yüzdendir ki basit döndürme değildir.
+
+A dışındaki iki kategorik önerme türünde de (E, I) iki kez döndürme yaparsak ilk hâline geri gelir. Sağlamasını yapalım. Önce E (SeP) ile başlayalım: “Hiçbir kuş sürüngen değildir.” Döndürelim (Gene E olacak ama PeS formunda): “Hiçbir sürüngen kuş değildir.” Şimdi tekrar döndürelim: “Hiçbir kuş sürüngen değildir.” Bakın, ilk hâle geri döndü. E ile başladık ve elimizde gene E (SeP) var. Aynı şeyi SiP için de yapalım. Mesela, “Bazı insanlar basketbolcudur.” Örneğimiz bu olsun. Döndürelim: “Bazı basketbolcular insandır.” SiP, PiS oldu. Şimdi tekrar döndürelim: “Bazı insanlar basketbolcudur.” İlk forma (I, SiP) geri döndük. İşte, A için bu durum söz konusu değil. A, iki kere döndürülerek ilk hâline (SaP) gelmez. Mesela, “Bütün insanlar ölümlüdür.” Bu, A. Döndürelim: “Bazı ölümlüler insandır.” A iken I oldu. SaP idi, artık PiS. Şimdi tekrar döndürelim: “Bazı insanlar ölümlüdür.” Bakın, I oldu. SaP olması gerekirken SiP oldu. A; sınırlı döndürme söz konusu olduğu için arızi olarak döndürülür. Bu yüzdendir ki ilk hâle hiçbir zaman geri dönemiyoruz.
+
+------------------------------------------------------------
+
+=== Camestres - İkinci Kalıp ===
+
+Camestres geçerli bir kıyas. Geçerli kıyasları hatırlayalım:
+
+Barbara, Celarent, Darii, Ferio, Cesare, Camestres, Festino, Baroco, Darapti, Disamis, Datisi, Felapton, Bocardo, Ferison, Bramantip, Camenes, Dimaris, Fesapo, Fresison. Geçerli ama zayıf: Barbari, Celaront, Cesaro, Camestrop, Camenop.
+
+Birinci kalıp neydi?
+
+M P  
+S M  
+S P
+
+Öyle değil mi? İkinci kalıbı da hatırlayalım:
+
+P M  
+S M  
+S P
+
+Camestres ikinci kalıp olduğuna göre şöyle olur:
+
+PaM  
+SeM  
+SeP
+
+Fon krizi güncel bir konu olduğu için örneği buradan vermek istiyorum.
+
+Her büyük kriz (P) kısa vadeli düşüşlere neden (M) olur.
+Hiçbir usulsüzlük (S) kısa vadeli düşüşlere neden (M) olmaz.
+O hâlde hiçbir usulsüzlük (S) büyük bir kriz (P) değildir.
+
+Tam aksine, bazı usulsüzlükler büyük bir krizdir. O hâlde valid ve sound ayrımını öğrenmek için şu yazımı okuyabilirsiniz: [https://mantik.blog/2026/10/28/cesare](https://mantik.blog/2026/10/28/cesare)
+
+------------------------------------------------------------
+
+=== Celarent - Barbar Celal, Derya'ya Feryat Etti ===
+
+Celarent ile devam edeceğim. Önceki yazıda Barbara’yı ele almıştım.
+
+Önce, kısa bir tekrar yapmak istiyorum. “Barbara” isminin içinde üç tane “a” var, o hâlde büyük önerme de küçük önerme de sonuç önermesi de tümel olumlu (A). Ayrıca, “Barbar Celal, Derya'ya feryat etti.” diye kodlamıştık. Barbara, Celarent, Darii ve Ferio’nun birinci kalıp olduğunu söylemiştik.
+
+Şimdi devam edelim.
+
+“Celarent” isminin içinde sırasıyla bir tane e, bir tane a ve bir tane e var. Yani E, A, E. Yani tümel olumsuz, tümel olumlu, tümel olumsuz.
+
+Barbara, Celarent, Darii ve Ferio’nun birinci kalıp olduğunu ezberlemiştik.
+
+Büyük önerme (MeP) şu olsun (en kolay örneği aradım): Hiçbir insan sincap değildir. Küçük önerme (SaM): Her yazar insandır. Sonuç önermesi (SeP): O hâlde, hiçbir yazar sincap değildir.
+
+Geçimimi yatırım portföyümden sağladığım için yatırım konulu bir örnek de vermek istiyorum. Yatırımcılar için faydalı olacaktır.
+
+TÜMEL OLUMSUZ (E): Hiçbir fiktif kazanç gerçekleşmiş değildir.  
+TÜMEL OLUMLU (A): Kâğıt üzerindeki her kazanç fiktif kazançtır.  
+TÜMEL OLUMSUZ (E): O hâlde, kâğıt üzerindeki hiçbir kazanç gerçekleşmiş değildir.
+
+İki örnek daha yazayım.
+
+MeP: Çıkara dayalı hiçbir ilişki (M) dostluk değildir (P).  
+SaM: Parayla satın alınabilen her ilişki (S) çıkara dayalı bir ilişkidir (M).  
+SeP: Parayla satın alınabilen hiçbir ilişki (S) dostluk değildir (P).
+
+Büyük önerme: Hiçbir âşık, Allah’ın ilhamından mahrum değildir.  
+Küçük önerme: Her kim gönül aynasını temiz tutarsa o kimse âşıktır.  
+Sonuç: Gönül aynasını temiz tutan hiç kimse Allah’ın ilhamından mahrum değildir.
+
+Elhamdülillah. Bir sonraki yazıda Darii üzerine konuşacağım.
+
+------------------------------------------------------------
+
+=== Cesare - İkinci Kalıp ===
+
+Cesare ikinci şekil olduğu için:
+
+PeM  
+SaM  
+SeP
+
+Büyük önerme (PeM): Hiçbir sincap (P) yatırımcı (M) değildir.  
+Küçük önerme (SaM): Her borsacı (S) yatırımcıdır (M).  
+Sonuç önermesi (SeP): Hiçbir borsacı (S) sincap (P) değildir.
+
+Barbara, Celarent, Darii ve Ferio birinci şekil (ya da kalıp).
+
+Ayrıca değineyim, kıyasta kurulan ilişki kurallara uygun olmalı. Aksi takdirde kıyasın geçerli olduğunu söyleyemeyiz.
+
+Kurallara uygun bir kıyas yanlış önermelerden oluşabilir.
+
+Mesela:
+
+Hiçbir insan yazar değildir.  
+Her deniz kabuğu yazardır.  
+Hiçbir deniz kabuğu insan değildir.
+
+Burada şunu görmeliyiz: Daha önce pek çok kez dile getirdiğim gibi, valid ve sound aynı şey değildir.
+
+Kıyas geçerlidir, yani valid ama sound, sağlam (gerçek dünyada doğru) değildir. Her sound akıl yürütme valid olmak zorundadır ama tam aksini söyleyemeyiz.
+
+------------------------------------------------------------
+
+=== Darii – Barbar Celal, Derya’ya Feryat Etti ===
+
+Geldik Darii'ye. Yine kısa bir tekrar yapalım, işimin hakkını vereyim.
+
+Barbara'da üç tane sesli harf var. Kalıbının birinci kalıp olduğunu bildiğimize göre: MaP, SaM, SaP idi.
+
+Celarent'teki üç sesli harf sırasıyla “e”, “a”, “e”. Demek ki o da MeP, SaM ve SeP olacak.
+
+Darii'de “a”, “i” ve “i” var. Darii de birinci kalıp, “Barbar Celal Derya’ya feryat etti.” diye aklımızda tutmuştuk: Barbara, Celarent, Darii ve Ferio birinci kalıp.
+
+Dr. Rimbo’nun hikâyesini hatırlıyor musunuz? Külliyatın son eseri. Ne diyordu: “Unuttun mu, Rimbo?! Hani, kavram ve kelime aynı şeydi senin için? ‘Zihnimdeki her düşünce dilimde.’ dememiş miydin? Şimdi neden gerçeği gizler oldun? Ölümün sana ne kadar yakın olduğunu bilmediğimi mi sandın?! Hem, sen dememiş miydin her şeyin bir sonu olduğunu? Yazarlığın bir sonu yok mu? Yoksa insan değil misin? Bunca sene kandırdın mı beni? Hani her yazar ölümsüzdü, Rimbo?! Yoksa yazar değil misin?!”
+
+Büyük önerme tümel olumlu (A) yani MaP olacak: Her insan (M) ölümlüdür (P).  
+Küçük önerme tikel olumlu (I) yani SiM: Bazı yazarlar (S) insandır (M).  
+Sonuç tikel olumlu (I) yani SiP olacak: O hâlde, bazı yazarlar (S) ölümlüdür (P).
+
+------------------------------------------------------------
+
+=== Dört Kıyas Kalıbı ===
+
+Her kıyasın sonuç önermesinde önce küçük terim, sonra büyük terim yer alır.
+
+“Bütün insanlar ölümlüdür. Habil bir insandır. O hâlde Habil ölümlüdür.” gibi bir akıl yürütmenin ilk önermesinde orta ve büyük terim, ikinci önermede küçük ve orta terim var.
+
+M P  
+S M
+
+söz konusu.
+
+P M  
+S M
+
+de söz konusu olabilirdi. O hâlde örneğimiz “Bütün ölümlüler beslenmek zorundadır. Hiçbir televizyon beslenmek zorunda değildir. O hâlde hiçbir televizyon ölümlü değildir.” olabilir.
+
+M P  
+M S
+
+de söz konusu olabilirdi. Mesela “Bütün insanlar ölümlüdür. Bütün insanlar akıl sahibidir. O hâlde bazı akıl sahipleri ölümlüdür.”
+
+P M  
+M S
+
+de olabilirdi. Buna da örnek verelim: “Bütün ölümlüler canlıdır. Hiçbir canlı, televizyon değildir. O hâlde hiçbir televizyon ölümlü değildir.”
+
+Dikkat ederseniz orta terim hepsinde ilk ve ikinci öncülde geçiyor. Hepsinde ilk önerme “büyük önerme” çünkü büyük terim ilk önermede geçiyor. Hepsinde küçük önerme küçük ve orta terimden oluşuyor ama son ikisinde sıralama (orta ve küçük terim olmak üzere) değişiyor.
+
+O hâlde her kıyasın sonuç önermesinde önce küçük terimin, sonra büyük terimin yer aldığını görmüş olduk. M ve P, M ve S yer değiştirebilir.
+
+Dört kıyas kalıbı:
+
+Orta terim (M), büyük terim (P); küçük terim (S), orta terim (M); küçük terim (S), büyük terim (P).
+
+Büyük terim (P), orta terim (M); küçük terim (S), orta terim (M); küçük terim (S), büyük terim (P).
+
+Orta terim (M), büyük terim (P); orta terim (M), küçük terim (S); küçük terim (S), büyük terim (P).
+
+Büyük terim (P), orta terim (M); orta terim (M), küçük terim (S); küçük terim (S), büyük terim (P).
+
+------------------------------------------------------------
+
+=== Eşdeğerlik Dönüşümleri - SaP ===
+
+“Bütün insanlar ölümlüdür.” (A, SaP ya da tümel olumlu) tersine döndürülürse (obversion) SeP’ olur: “Hiçbir insan ölümsüz değildir.” Eş deyişle, “Hiçbir insan ölümlü olmayan değildir.” “Bütün insanlar ölümlüdür.” (SaP) döndürülürse (conversion) PiS olur: “Bazı ölümlüler insandır.” Bu da tersine döndürülürse PoS’ olur: “Bazı ölümlüler insan olmayan değildir.” SaP önermesinin tersine döndürülmesi SeP’ döndürülürse P’eS olur: “Hiçbir ölümlü olmayan insan değildir.” SaP önermesinin tersine döndürülmesi ile elde edilmiş SeP’ önermesinin döndürülmesi ile elde edilen P’eS önermesinin tersine döndürülmesi P’aS’ olur: “Her ölümlü olmayan, insan olmayandır.”
+
+“Bütün insanlar ölümlüdür.” (A, SaP ya da tümel olumlu) tersine döndürülürse (obversion) neden SeP’ olur? Çünkü tersine döndürme yaparken önermenin niceliğine (tümel ya da tikel oluşuna) dokunmadan yalnızca niteliğini (olumlu ya da olumsuz oluşunu) değiştiriyoruz ve yüklemin değilini alıyoruz. A, tümel olumlu olduğu için tersine döndürüldüğünde de (obversion) yine tümel ama olumsuz olan E hâlini alır. Özne (S) ve yüklem (P) yerlerini koruyarak önerme SeP biçimini alır, sonra yüklemin değili alınarak SeP’ önermesi elde edilir.
+
+“Bütün insanlar ölümlüdür.” (SaP) döndürülürse (conversion) neden PiS olur? Döndürmede ne yapıyorduk? Özne ve yüklemi yer değiştiriyorduk. Bu işlem sırasında doğruluk değerini koruyabilmek adına niceliği değiştireceğiz. Konu tümel olumsuz (SeP ya da E) ya da tikel olumlu (SiP ya da I) olsaydı nicelik değişmeyecekti ama dikkat edin, bizim önermemiz tümel olumlu (SaP ya da A). Bu yüzden, nicelik tümel olumludan tikel olumluya daralacak. O da şöyle olur: “Bazı ölümlüler insandır.” Önermemiz artık PiS oldu, tikel olumlu; özne ve yüklemin yeri değişti ama SaP’a özel olarak nicelik de değişti.
+
+“Bütün insanlar ölümlüdür.” önermesi döndürülürse (conversion) PiS olur: “Bazı ölümlüler insandır.” Bu, döndürülmüş önerme tersine döndürülürse (obversion) ne olur? Niceliği aynı kalacak, niteliği değişecek ve yüklemi değillenecek. O hâlde PoS’ olur: “Bazı ölümlüler insan olmayan değildir.”
+
+SaP önermesinin tersine döndürülmesi SeP’ döndürülürse neden P’eS olur? SaP önermesi niceliği aynı kalarak, niteliği değiştirilerek ve yüklemi değillenerek tersine döndürülürse SeP’ olur: SaP “Bütün insanlar ölümlüdür.” ise SeP’ “Hiçbir insan ölümlü olmayan değildir.” Şimdi bunu döndürüp P’eS elde edelim. Dikkat ederseniz tersine döndürüp demedim, burada döndürmeden (conversion) bahsediyoruz. Yani özne ve yüklem yer değiştirecek, nicelik (tümel ya da tikel) ve nitelik (olumlu ya da olumsuz) değişmeyecek: “Hiçbir ölümlü olmayan insan değildir.” Bu sayede, önce SaP önermesini tersine döndürdük, sonra elde ettiğimiz önermeyi döndürerek P’eS önermesine gelmiş olduk.
+
+SaP önermesinin tersine döndürülmesi ile elde edilmiş SeP’ önermesinin döndürülmesi ile elde edilen P’eS önermesinin tersine döndürülmesi neden P’aS’ olur? Sıra sıra gidelim. SaP önermesini tersine döndürmek (obversion) için niteliğini değiştirmeli ve yüklemini değillemeliyiz: SeP’. SeP’ önermesini döndürmek için (conversion) özne (S, subject) ve yüklemin (P, predicate) yerini değiştirmeliyiz: P’eS. Şimdi, tersine döndürmek için niteliğini değiştirip yüklemini değillemeliyiz: P’aS’. Şimdi sıralayalım: “Bütün insanlar ölümlüdür.”, “Hiçbir insan ölümlü olmayan değildir.”, “Hiçbir ölümlü olmayan insan değildir.”, “Bütün ölümlü olmayanlar insan olmayandır.”
+
+------------------------------------------------------------
+
+=== Eşdeğerlik Dönüşümleri - SeP ===
+
+SeP demek tümel olumsuz demek. E ile gösteriyoruz. Mesela “Hiçbir insan kanatlı değildir.” tümel olumsuz bir önerme. SeP’i tersine döndürürsek (obversion) SaP’ olur. SeP’i döndürürsek (conversion) PeS olur. SeP’i önce döndürüp sonra tersine döndürürsek sırasıyla PeS ve PaS’ olur. SeP’i önce tersine döndürüp sonra döndürürsek sırasıyla SaP’ ve P’iS olur. SeP’i önce tersine döndürüp sonra döndürüp sonra tersine döndürürsek sırasıyla SaP’, P’iS ve P’oS’ olur.
+
+SeP’i tersine döndürürsek (obversion) neden SaP’ olur? Önermenin niceliği tümel, niceliğe dokunmuyoruz. Niteliği olumsuz, tersine döndürmek için olumlu yapmalıyız: SaP. Şimdi de yüklemi değillemeliyiz: SaP’. Tersine döndürmede niteliği değiştiriyoruz ve yüklemi (P, predicate) değilliyoruz.
+
+SeP’i döndürürsek (conversion) neden PeS olur? Conversion işleminde, E ve I önermelerinde, önermenin niteliği ve niceliği değişmiyordu. Yani tümel ise tümel, tikel ise tikel; olumlu ise olumlu, olumsuz ise olumsuz olarak kalıyordu. O hâlde, değişen şey ne? Önermenin öznesi ve yüklemi yer değiştiriyor: S(özne)eP(yüklem) ise P(yüklem)eS(özne). SeP: “Hiçbir insan kanatlı değildir.” ise PeS: “Hiçbir kanatlı, insan değildir.”
+
+SeP’i önce döndürüp sonra tersine döndürürsek sırasıyla PeS ve PaS’ olur. Neden? Önce döndürelim. Döndürmek (conversion) için özne ve yüklem yer değiştirmeli: PeS. Şimdi, PeS önermesini tersine döndürelim (obversion). Tersine döndürme için önermenin niteliğini değiştirip yüklemini değillememiz gerekiyor. Niteliğini değiştirirsek PaS olur. Yüklemini değillersek PaS’ önermesine ulaşırız.
+
+SeP’i önce tersine döndürüp sonra döndürürsek sırasıyla SaP’ ve P’iS olur. Neden? Sıra sıra gidelim. Tersine döndürme (obversion) işlemi için niteliği değiştirip yüklemi değilliyoruz. SaP’ önermesine ulaştık. Şimdi, özne ve yüklemin yerini değiştirerek döndürme (conversion) işlemi yapalım. Bu sayede P’iS önermesine ulaştık. Unutmayın, SaP döndürülürken niceliği de değişir. Aksi takdirde doğruluk değerini koruyamayız ve mantık hatası olur.
+
+SeP’i önce tersine döndürüp (obversion) sonra döndürüp (conversion) sonra tersine döndürürsek sırasıyla SaP’, P’iS ve P’oS’ olur. Neden? Tersine döndürme için niteliği değiştirip yüklemi değilleyelim. Ulaştığımız SaP’ önermesinin özne ve yüklemini yer değiştirelim ve mantık hatası yapmamak için niceliğini değiştirelim. Ulaştığımız P’iS önermesinin de niteliğini değiştirip yüklemini değillersek P’oS’ önermesine ulaşmış oluruz.
+
+------------------------------------------------------------
+
+=== Eşdeğerlik Dönüşümleri - SiP ===
+
+SiP önermesini tersine döndürürsek (obversion) SoP’ olur. Döndürürsek (conversion) PiS olur. Döndürüp tersine döndürürsek PoS’ olur. Tersine döndürüp döndüremeyiz ya da tersine döndürüp, döndürüp, tersine döndüremeyiz.
+
+SiP önermesini tersine döndürürsek (obversion) SoP’ olur. Çünkü tersine döndürmede niteliği değiştirip yüklemi değilliyoruz.
+
+SiP önermesini döndürürsek (conversion) PiS olur. Çünkü SiP tikel olumlu. Tikel olumlu ve tümel olumsuz önermelerde döndürme işlemi özne ve yüklemin yer değiştirilmesiyle gerçekleştirilir.
+
+SiP önermesini döndürüp tersine döndürürsek neden PoS’ olur? Döndürmek (conversion) için özne ve yüklemi yer değiştirelim: PiS. Tersine döndürmek için niteliği değiştirip yüklemi değilleyelim: PoS’. Örneğin, “Bazı insanlar gözlüklüdür.” ise “Bazı gözlüklüler insandır.” ise “Bazı gözlüklüler insan olmayan değildir.”
+
+SiP önermesini tersine döndürebiliriz (obversion) ama sonra döndüremeyiz (conversion). SiP önermesini tersine döndürürsek tikel olumsuz olur ve O döndürülmez. SiP: “Bazı insanlar gözlüklüdür.” Tersine döndürülmüş hâli (SoP’): “Bazı insanlar gözlüklü olmayan değildir.” Bu önermeye conversion işlemi yapılamaz ama zorlayalım: “Bazı gözlüklü olmayanlar insan değildir.” İşte, bal gibi bir mantık hatası.
+
+SiP önermesini tersine döndürüp, döndürüp, tersine döndüremeyiz. Neden? Mesela, SiP önermesi “Bazı insanlar yazardır.” olsun. Tersine döndürelim: “Bazı insanlar yazar olmayan değildir.” Şimdi, bu noktadan sonra döndürme yapamayız çünkü elimizde bir O var ve O için conversion işlemi ihlale neden olur. Gene de zorlayalım ve bilinçli bir şekilde mantık hatası yapalım: “Bazı yazar olmayanlar insan değildir.” Mantık hatası yaptığımız hâlde devam edelim ve elde ettiğimiz P’oS önermesini tersine döndürmeye çalışalım: “Bazı yazar olmayanlar insan olmayandır.” Unutmayın, P’oS tersine döndürülebilir. Buradaki problem ikinci işlemde. Yani SiP’i tersine döndürdükten sonra döndüremeyiz.
+
+------------------------------------------------------------
+
+=== Eşdeğerlik Dönüşümleri - SoP ===
+
+SoP'u tersine döndürürsek (obversion) SiP’ olur. Bir örnek verelim: “Bazı insanlar gözlüklü değildir.” ise “Bazı insanlar gözlüksüzdür.”
+
+SoP'u döndüremeyiz (conversion) çünkü tikel olumsuz. Zorlarsak “Bazı gözlüklüler insan değildir.” olur. Bu bir mantık hatası.
+
+SoP'u tersine döndürüp (obversion) döndürürsek (conversion) P'iS olur. “Bazı insanlar gözlüklü değildir.” ise “Bazı insanlar gözlüksüzdür.” ise “Bazı gözlüksüzler insandır.” olur.
+
+SoP'u tersine döndürüp (obversion) döndürüp (conversion) tersine döndürürsek P'oS’ olur. Örneğimizi değiştirelim, farklılık olsun: “Bazı sincaplar kanatlı değildir.” ise “Bazı sincaplar kanatsızdır.” ise “Bazı kanatsız varlıklar sincaptır.” ise “Bazı kanatsız varlıklar sincap olmayan değildir.” olur.
+
+------------------------------------------------------------
+
+=== Ferio – Barbar Celal, Derya’ya Feryat Etti ===
+
+Barbara’da üç tane sesli harf olduğu için MaP, SaM, SaP.
+
+Celarent’te MeP, SaM ve SeP.
+
+Darii’de “a”, “i” ve “i” var: MaP, SiM, SiP.
+
+Ferio'da şöyle olacak:
+
+Büyük önerme (MeP): 50 milyon TL’den daha az varlığı olan (M) hiç kimse serbest fon alamaz (P).  
+Küçük önerme (SiM): Bazı bireysel yatırımcılar (S) 50 milyon TL’den daha az varlığa sahiptir (M).  
+Sonuç (SoP): O hâlde, bazı bireysel yatırımcılar (S) serbest fon alamaz (P).
+
+Serinin ilk yazısı: [Barbara - Barbar Celal, Derya'ya Feryat Etti](https://mantik.blog/2026/10/24/barbara-barbar-celal-deryaya-feryat-etti)  
+İkinci yazı: [Celarent – Barbar Celal, Derya’ya Feryat Etti](https://mantik.blog/2026/10/25/celarent-barbar-celal-deryaya-feryat-etti)  
+Üçüncü yazı: [Darii – Barbar Celal, Derya’ya Feryat Etti](https://mantik.blog/2026/10/26/darii-barbar-celal-deryaya-feryat-etti)
+
+Leonid Petrov'un yazar tıkanıklığı yaşadığı dönemde söylediklerini hatırlayın:
+
+"Kalem daima yazmak ister. O kadar haindir ki en güzel duyguları bile alet edinir. Nice insanı kullanıp atar, nice güzelliği israf eder. Kendini kullandırttığında bile amacına ulaşır. Sinsidir, niyeti daima kendi çıkarı yönündedir. İşte, kalem böyle bir şeydir. Bundandır suskunluk. Bundandır çaresizlik, terk edişim."
+
+Hiçbir suskun (M) kalemine küsmez (P).  
+Bazı yazarlar (S) suskundur (M).  
+Bazı yazarlar (S) kalemine küsmez (P).
+
+Ya da:
+
+Hiçbir yazarın kalemi (M) suçlu değildir (P).  
+Bazı sinsiliklerin faili (S) yazarın kalemidir (M).  
+Bazı sinsiliklerin faili (S) suçlu değildir (P).
+
+Oysa kalemin sinsiliği onu suçlu yapmaz. Her suskunluğun nedeni kalem değildir. Kalem ilgi ister, biricik olmak ister. Bazı çaresizliklerin nedeni suskunluğun nedenidir.
+
+------------------------------------------------------------
+
+=== Festino - İkinci Kalıp ===
+
+Barbara, Celarent, Darii ve Ferio'yu ezberlemek kolay, sık sık duyuyorsunuz ama konu Cesare, Camestres gibi ikinci kalıp geçerli kıyaslara gelince zorlaşıyor.
+
+Cesare ve Camestres üzerine yazmıştım. Sıra Festino'da. Tamamını ele almayı düşünüyorum.
+
+Tabii önce ikinci kalıbı hatırlamamız gerekiyor. Hatta, tüm kalıpları yazayım. Birinci kalıp: MP, SM, SP; ikinci kalıp: PM, SM, SP; üçüncü kalıp: MP, MS, SP ve dördüncü kalıp: PM, MS, SP.
+
+Festino ikinci kalıp olduğuna göre PeM, SiM, SoP olacak. Büyük önerme tümel olumsuz, küçük önerme tikel olumlu ve sonuç önermesi tikel olumsuz, örnek yazayım.
+
+Hiçbir akıllı telefon (P) tuşlu (M) değildir. Bazı ev telefonları (S) tuşludur (M). O hâlde bazı ev telefonları (S) akıllı telefon (P) değildir.
+
+Yazıyı telefonumdan yazdığım için aklıma bu örnek geldi. Açma kapama tuşu da var, evet ama burada onu kastetmiyorum. Dokunmatik olmayan, tuş takımı olan telefonları kastediyorum. Dolayısıyla akıl yürütme sound (kaçınılmaz olarak valid çünkü her sound akıl yürütme valid).
+
+------------------------------------------------------------
+
+=== Kategorik Kıyasın Terimleri ===
+
+Orta terim (M) ilk ve ikinci öncülde geçer ama sonuçta geçmez.
+
+Büyük terimin geçtiği birinci önermeye “büyük önerme” denir.
+
+Küçük önerme (ikinci önerme) küçük ve orta terimden oluşur.
+
+Sonuç önermesi ise küçük ve büyük terimden oluşur.
+
+O hâlde küçük terim (S), büyük terim (P) ve orta terim (M) olmak üzere üç terim vardır.
+
+Özneyi küçük terim (S), yüklemi büyük terim (P) meydana getirir.
+
+Her cümleye tek tek örnek vereceğim. Aynı akıl yürütme üzerinden gidelim.
+
+Orta terim (M) ilk ve ikinci öncülde geçer ama sonuçta geçmez: Her insan (orta terim “insan”) ölümlüdür. Habil bir insandır (orta terim, M). O hâlde Habil ölümlüdür.
+
+Büyük terimin geçtiği birinci önermeye “büyük önerme” denir: Her insan ölümlüdür (büyük terim “ölümlüdür”, “Her insan ölümlüdür.” önermesi büyük önerme). Habil bir insandır. O hâlde Habil ölümlüdür (büyük terim, P).
+
+Küçük önerme (ikinci önerme) küçük ve orta terimden oluşur: Her insan ölümlüdür. Habil (küçük terim, S) bir insandır (orta terim “insandır”, “Habil bir insandır.” önermesi küçük önerme). O hâlde Habil ölümlüdür.
+
+Sonuç önermesi ise küçük ve büyük terimden oluşur: Her insan ölümlüdür. Habil bir insandır. O hâlde Habil (küçük terim) ölümlüdür (büyük terim).
+
+O hâlde küçük terim (S), büyük terim (P) ve orta terim (M) olmak üzere üç terim vardır: Her insan (M) ölümlüdür (P). Habil (S) bir insandır (M). O hâlde Habil (S) ölümlüdür (P).
+
+Özneyi küçük terim (S), yüklemi büyük terim (P) meydana getirir: Her insan ölümlüdür. Habil bir insandır. O hâlde Habil (S) ölümlüdür (P).
+
+Hepsini birleştirirsek şöyle olur:
+
+BÜYÜK ÖNERME: Her insan (orta terim, M: “insan”) ölümlüdür (büyük terim, P: “ölümlüdür”).
+
+KÜÇÜK ÖNERME: Habil (küçük terim, S) bir insandır (orta terim, M: “insandır”).
+
+SONUÇ ÖNERMESİ: O hâlde Habil (küçük terim, S, özne) ölümlüdür (büyük terim, P, yüklem).
+
+Orta terim ilk ve ikinci öncülde geçiyor, sonuç önermesinde geçmiyor. Büyük terim birinci önermede geçiyor. Küçük ve orta terim ikinci önermede geçiyor. Küçük ve büyük terim sonuç önermesinde geçiyor. Görüldüğü gibi, her şey yerli yerinde.
+
+Aklınızda şöyle tutabilirsiniz: İlk ve ikinci öncülde geçen ama sonuçta geçmeyen terim orta terimdir. Ortadaki önermeye bakın, onda geçen ve ilk önermede geçen ama sonuç önermesinde geçmeyen terim hangisi? O, orta terim.
+
+Büyük terim de ilk ve son önermede (yani sonuçta) geçiyor. İlki büyük, böyle düşünebilirsiniz. Büyük, küçük, sonuç.
+
+Büyük terim küçük önermede geçmez. Küçük terim büyük önermede geçmez. Sonuç önermesinde büyük terim de geçer küçük terim de geçer.
+
+Kısaca şöyle:
+
+Büyük önermede orta ve büyük terim var.  
+Küçük önermede küçük ve orta terim var.  
+Sonuç önermesinde küçük ve büyük terim var.
+
+Aklınızda tutmakta zorlanırsanız sonuç önermesinde ikisinin de (büyük terimin de küçük terimin de) olduğunu hatırlayın. Gerisi çok kolay. Büyük terim büyük önermede, küçük terim küçük önermede. Orta terime ne oldu? O da ilk ikisinde olacak. Bu kadar basit. Tekrar ede ede oturur.
+
+Sahi, sen “Silojizm – Tasım – Kıyas” başlıklı yazımın son üç bölümünün satır başlarındaki harfleri yukarıdan aşağıya doğru okudun mu, güzel dostum? İşte, bu akrostiş vurgusu yapan cümle gibi cümleler soru cümlesidir.
+
+Kıyas soru cümleleriyle ilgilenmez. Kıyasın konusu önermelerdir.
+
+------------------------------------------------------------
+
+=== Klasik ve Zincirleme Kıyas ===
+
+Kıyas; iki öncül, bir sonuçtan oluşur.
+
+Öncül sayısı ikiden büyükse “zincirleme kıyas” adını alır.
+
+İki öncül ve bir sonuçtan oluşan kıyasa “klasik” ya da “kategorik” kıyas denir.
+
+Şöyle bir örnek verebiliriz:
+
+1. Öncül (Büyük Öncül de denir.): Bütün insanlar ölümlüdür.
+2. Öncül (Küçük): Habil bir insandır.  
+   Sonuç: O hâlde Habil ölümlüdür.
+
+Burada (biri büyük, biri küçük olmak üzere) iki öncül ve sonuç var.
+
+Zincirleme kıyas olsaydı şöyle olurdu:
+
+1. Öncül (Büyük): Bütün canlılar ölümlüdür.
+2. Öncül (Ara Öncül): Bütün memeliler canlıdır.
+3. Öncül (Ara): Bütün insanlar memelidir.
+4. Öncül (Küçük): Habil bir insandır.  
+   Sonuç: O hâlde Habil ölümlüdür.
+
+Bakın, burada dört öncül ve sonuç var. Bu yüzden buna “zincirleme” kıyas diyoruz
+
+------------------------------------------------------------
+
+=== Kuvvetli Kıyaslar - Zayıf Kıyaslar - Geçersiz Kıyaslar ===
+
+Görüldüğü üzere 24 kıyas geçerli, 232 kıyas geçersizdir. Hepsini yazdım.
+
+Geçerli olan 24 kıyastan 19 tanesi kuvvetli, 5 tanesi zayıf kabul edilir.
+
+KUVVETLİ KIYASLAR: Barbara, Celarent, Darii, Ferio, Cesare, Camestres, Festino, Baroco, Darapti, Disamis, Datisi, Felapton, Bocardo, Ferison, Bramantip, Camenes, Dimaris, Fesapo, Fresison.
+
+ZAYIF KIYASLAR: Barbari, Celaront, Cesaro, Camestrop, Camenop.
+
+GEÇERSİZ KIYASLAR: 1. ŞEKİL: AAE, AAO, AEA, AEE, AEI, AEO, AIA, AIE, AIO, AOA, AOE, AOI, AOO, EAA, EAI, EEA, EEE, EEI, EEO, EIA, EIE, EII, EOA, EOE, EOI, EOO, IAA, IAE, IAI, IAO, IEA, IEE, IEI, IEO, IIA, IIE, III, IIO, IOA, IOE, IOI, IOO, OAA, OAE, OAI, OAO, OEA, OEE, OEI, OEO, OIA, OIE, OII, OIO, OOA, OOE, OOI, OOO.
+
+2. ŞEKİL: AAA, AAE, AAI, AAO, AEA, AEI, AIA, AIE, AII, AIO, AOA, AOE, AOI, EAA, EAI, EEA, EEE, EEI, EEO, EIA, EIE, EII, EOA, EOE, EOI, EOO, IAA, IAE, IAI, IAO, IEA, IEE, IEI, IEO, IIA, IIE, III, IIO, IOA, IOE, IOI, IOO, OAA, OAE, OAI, OAO, OEA, OEE, OEI, OEO, OIA, OIE, OII, OIO, OOA, OOE, OOI, OOO.
+
+3. ŞEKİL: AAA, AAE, AAO, AEA, AEE, AEI, AEO, AIA, AIE, AIO, AOA, AOE, AOI, AOO, EAA, EAE, EAI, EEA, EEE, EEI, EEO, EIA, EIE, EII, EOA, EOE, EOI, EOO, IAA, IAE, IAO, IEA, IEE, IEI, IEO, IIA, IIE, III, IIO, IOA, IOE, IOI, IOO, OAA, OAE, OAI, OEA, OEE, OEI, OEO, OIA, OIE, OII, OIO, OOA, OOE, OOI, OOO.
+
+4. ŞEKİL: AAA, AAE, AAO, AEA, AEI, AIA, AIE, AII, AIO, AOA, AOE, AOI, AOO, EAA, EAE, EAI, EEA, EEE, EEI, EEO, EIA, EIE, EII, EOA, EOE, EOI, EOO, IAA, IAE, IAO, IEA, IEE, IEI, IEO, IIA, IIE, III, IIO, IOA, IOE, IOI, IOO, OAA, OAE, OAI, OAO, OEA, OEE, OEI, OEO, OIA, OIE, OII, OIO, OOA, OOE, OOI, OOO.
+
+------------------------------------------------------------
+
+=== Kuyuyu Zehirleme Safsatası - Poisoning the Well Fallacy ===
+
+Bir örnek vermek istiyorum, izninizle.
+
+Birazdan sahneye çıkacağım ve beni şöyle anons ettiler:
+
+“Birazdan sahneye çıkacak, mantık dersi verecek olan konuşmacı, geçen yılki intihal skandalına karışmış. Habil, akademik dürüstlükten uzak, hatırlatırım. Hadi, buyursun da geçerli bir akıl yürütme nasıl olurmuş anlatsın bize.”
+
+Burada kuyuyu zehirleme safsatası söz konusu olur.
+
+Ben konuşma yapmadan önce beni öyle bir anons ettiler ki çıkıp “Bütün canlılar ölümlüdür.”, “Bütün memeliler canlıdır.”, “Bütün insanlar memelidir.”, “Habil bir insandır.”, “O hâlde Habil ölümlüdür.” desem dahi bana inanmayan insanlar olacaktır.
+
+Kusursuz bir kıyas ortaya koymuş olsam dahi kuyu zehirlendiği için ağzımdan çıkan her şeye şüpheyle bakan, küçümseyen gözlerle karşı karşıya kaldım.
+
+İşte, buna kuyu zehirleme safsatası diyoruz.
+
+Muhatap henüz argüman sunmadan onu itibarsızlaştırmaya çalışırsak kuyuyu zehirleme safsatasına düşmüş oluruz.
+
+Herkesin su içtiği bir kuyu düşünün. Kuyuyu zehirlersek ne olur? Kuyunun suyu ne kadar bereketli, ne kadar şifalı olursa olsun kimse içmez. Artık Habil ne söylerse söylesin kimse ona inanmayacaktır çünkü kuyu zehirlenmiş, kişi itibarsızlaştırılmıştır.
+
+------------------------------------------------------------
+
+=== Mantıkçı ve Silojizm İlişkisi ===
+
+Mantıkçı, kıyasın kurallarının doğru bir şekilde uygulanıp uygulanmadığını denetleyen kişidir.
+
+Öncüller ve sonuç arasındaki mantıksal bağı denetleyen kişidir.
+
+Örneğin, “Her denizkızı kuyrukludur.”, “Bazı denizkızları balıktır.”, “O hâlde bazı balıklar kuyrukludur.”
+
+Burada kıyasın kuralları doğru bir şekilde uygulanmış. Arada geçerli bir mantıksal bağ var.
+
+Mantıkçı için “Denizkızı gerçekten var mı?”, “Denizkızlarının bazıları balık mı?” gibi sorular önemsizdir.
+
+Ortada doğru ya da yanlış olabilen bir yargı olması (ki biz buna önerme diyoruz) ve bu yargılardan (önermelerden) hareketle sonuca varma işleminin ihlalsiz bir şekilde gerçekleşmiş olması önemlidir.
+
+Öyle ki suya dalıp denizkızı arayan kişi değil, mantıksal bağı denetleyen kişi mantıkçıdır.
+
+------------------------------------------------------------
+
+=== Mantığa Dayanmak ===
+
+Mantığa dayanan hiç yıkılır mı?
+
+Üstat, Risale-i Nur’u mantığa dayandırmıştır. Mantığa dayanan hiç yıkılır mı?
+
+Yıkılmaz ama eksik kalır. Nice eser nice ahmaklığa karşı tutsak olmuş, sesi çıkamadan unutulmuştur. Risale-i Nur öyle mi, elbette değil.
+
+Hareket alanımız gitgide daralıyor. Tam aksi gerçekleşiyormuş gibi görünse de eskisi kadar özgür değiliz. Özgür olduğumuz yanılsaması içindeyiz. Hoş, özgürlük ve başına buyrukluğu da karıştırıyoruz.
+
+Böyle bir durumda mantığı güçlü bir dayanak olarak konumlandırıyorum. Elbette eksik bir görüş. Eksiklik benim değil, mantığın eksikliği.
+
+Bir dostumun beğendiği bir benzetmem vardır, bilenler bilirler. Mantığı tesisata benzetmiştim. İçinden akanın ne olduğuna bakmaz, akıp akmadığına bakar. Mantıkçının görevi denetlemektir, hakikat filozofa kalır tabii.
+
+Bu yüzden mi Gazzâlî tasavvufa yöneldi? O hâlde Said Nursî’nin yaptığı gibi yapmak gerek.
+
+Kalbe iman, akla mantık gerek.
+
+------------------------------------------------------------
+
+=== Silojizm - Tasım - Kıyas ===
+
+İnsanın özünü keşfetmesini, kendisi olmasını sağlayan her şey insanı “sen” eder. Öyle aşklar vardır ki kalbine girende özünü keşfettirir, sen olmanı sağlar. O hâlde kalbine girende özünü keşfettirip sen olmanı sağlayan aşklar, seni “sen” eder.
+
+Kıyas bir tümdengelim türü. Şiirsel bir örnek vermek istedim. Yazdığım örnek üzerinden gidelim.
+
+Yazdığım ilk önerme bu: İnsanın özünü keşfetmesini, kendisi olmasını sağlayan her şey insanı “sen” eder.
+
+Aslında, her A, B'dir demek bu. Her A (insanın özünü keşfetmesini, kendisi olmasını sağlayan şey), B'dir (“sen” eder).
+
+İkinci önerme de bu: Öyle aşklar vardır ki kalbine girende özünü keşfettirir, sen olmanı sağlar. Bu da bazı C'ler (bazı aşklar), A'dır (kalbine girdiğinde özünü keşfettirir, insanın kendisi olmasını sağlar) demek.
+
+O hâlde bu kalbine girende özünü keşfettiren, sen olmanı sağlayan aşklar kaçınılmaz olarak seni “sen” eder. İşte, bunu da bazı C'ler, B'dir olarak formüle dökebiliriz.
+
+Öyle değil midir? Her A, B ise bazı C'ler, A ise bazı C'ler B olmaz mı? Kaçınılmaz olarak olur.
+
+Kıyasın diğer adı silojizm. Bir diğer adı tasım. Üç sözcük eş anlamlı.
+
+Rusçadaki sillogizm de tıpkı Türkçede olduğu gibi “syllogismos” kelimesinden geliyor.  
+Antik Yunancada “çıkarım yapma” demek syllogismos.  
+Bütün insanlar ölümlüdür, Sokrates bir insandır, o hâlde Sokrates ölümlüdür örneğini (oldukça popüler) verebilirim.  
+İki öncül ve sonuçtan oluşan bu formu Aristo ile öğrendik.  
+Akıl yürütme söz konusu olduğunda en yaygın form budur.
+
+Genelden özele formunun yaygın olduğu kadar güvenilir olduğunu da söyleyebiliriz.  
+Üzerinde sıkça durulmuş ve eleştirilmiştir.  
+Zorunlu sonuçlar verir ama yeni bir bilgi üretmez.  
+En yaygın eleştirilerden biri döngüsel kanıtlamalarda kullanılarak safsatalara alet edildiği yönünde.  
+Leibniz'in "insan zihninin en güzel ve en önemli keşiflerinden biri” olarak nitelendirdiğini unutmamak lâzım.
+
+Doğruluğu mantıksal doğruluktan ayırmak bu noktada faydalı olabilir.  
+Olgusal doğruluğu mantıksal doğruluktan ayırmak zorunda olduğumuzu savunan görüşler de var.  
+Sound olan bir akıl yürütme valid olmak zorundadır ama valid bir akıl yürütme sound olmak zorunda değildir.  
+Tam aksini düşünenler olsa da pratikte bu ayrım zorunlu olmuş durumda.  
+Uzlaştırmak için her iki görüşü de yararlı olduğu noktalarda doğru kabul edebiliriz.  
+Makul bir çözüm alana özel, faydalı olan yöntemleri benimsemek olabilir, zannediyorum.
+
+------------------------------------------------------------
+
+=== Tersine Döndürme (Obversion) ===
+
+Tersine döndürmede (obversion) özne (S, subject) ve yüklemin (P, predicate) yeri değiştirilmez. Önermenin niteliği (olumlu mu olumsuz mu olduğu) değişir ve yüklem değillenir.
+
+Bir şey ya kendisidir ya da kendisinin değilidir. Yani ya A ya da A’ olabilir. (’) sembolü değillemeyi gösteriyor. A ve A’nın değili (eş deyişle, A olmayan) dışında üçüncü bir seçenek olanaksızdır.
+
+“Bütün insanlar ölümlüdür.” demek iki küme oluşturmak demektir: “ölümlüdür” kümesi ve “ölümlü değildir” kümesi. İnsanlar “ölümlüdür” kümesinde yer alıyor. O hâlde diğer kümede tek bir insan bile bulunamaz. İnsan ya ölümlüdür ya da ölümlü değildir.
+
+Önermenin doğruluk değeri ne olursa olsun ona eş değer ters (obversion) bir önerme oluşturabiliriz. SaP ise SeP’; SeP ise SaP’; SiP ise SoP’; SoP ise SiP’ elde ederiz.
+
+A (SaP) tersine döndürülürse E (SeP’) olur: “Tüm insanlar ölümlüdür.” ise “Hiçbir insan ölümsüz değildir.”
+
+E (SeP) tersine döndürülürse A (SaP’) olur: “Hiçbir insan kanatlı değildir.” ise “Bütün insanlar kanatsızdır.”
+
+I (SiP) tersine döndürülürse O (SoP’) olur: “Bazı insanlar yeteneklidir.” ise “Bazı insanlar yeteneksiz değildir.”
+
+O (SoP) tersine döndürülürse I (SiP’) olur: “Bazı kuşlar tüylü değildir.” ise “Bazı kuşlar tüysüzdür.”
+
+------------------------------------------------------------
+
+=== Yeni Bir Önerme ===
+
+“Bütün balıklar omurgalıdır.” Bu SaP, yani tümel olumlu (A) bir önerme. A (SaP) tersine döndürülürse E (SeP’) olur: “Hiçbir balık omurgalı olmayan değildir.”
+
+“Bütün balıklar omurgalıdır.” tümel olumlu önermesinin tersine döndürülmesi ile (obversion) elde edilmiş “Hiçbir balık omurgalı olmayan değildir.” (SeP’) önermesini döndürürsek (conversion) P’eS olur: “Hiçbir omurgalı olmayan balık değildir.”
+
+SaP (tümel olumlu, A) tersine döndürülünce (obversion) SeP’ oluyor, SeP’ döndürülünce (conversion) P’eS oluyorsa P’eS önermesi SaP (ilk durumdaki önerme) önermesine denk ama ondan farklı bir önermeyse tersine döndürme ve döndürme yapılarak doğruluk değeri korunmuş yeni bir önerme oluşturulabilir.
+
+------------------------------------------------------------
+
+=== Zaman ve Sabır ===
+
+“Savaşçıların en güçlüsü zaman ve sabırdır.” Ne güzel söylemiş Tolstoy.
+
+Robert G. Hagstrom, Tolstoy’un fikrinin ekonomi için de geçerli olduğunu söylüyor.
+
+Ben bir adım daha ileri gidip mantıksal analizlerde de geçerli olduğunu söyleyeceğim.
+
+Bir önceki yazımda şöyle söylemiştim: İnsanın özünü keşfetmesini, kendisi olmasını sağlayan her şey insanı “sen” eder. Öyle aşklar vardır ki kalbine girende özünü keşfettirir, sen olmanı sağlar. O hâlde kalbine girende özünü keşfettirip sen olmanı sağlayan aşklar, seni “sen” eder.
+
+Bunun yerine, şöyle de ifade edebilirdim: İnsanın özünü keşfetmesini, kendisi olmasını sağlayan her şey insanı “sen” eder. Bazı aşklar vardır ki kalbine girdiğinde özünü keşfettirir, insanın kendisi olmasını sağlar. O hâlde bazı aşklar, seni “sen” eder.
+
+Kuyuyu zehirleme safsatasını anlattığım yazımda verdiğim örneği hatırlıyor musunuz? Bu örneği vermiştim: “Birazdan sahneye çıkacak, mantık dersi verecek olan konuşmacı, geçen yılki intihal skandalına karışmış. Habil, akademik dürüstlükten uzak, hatırlatırım. Hadi, buyursun da geçerli bir akıl yürütme nasıl olurmuş anlatsın bize.”
+
+Zaman ve sabır üzerinde duruyorum çünkü insan her şeyi hemen mantık hatası olarak görme eğiliminde olabiliyor.
+
+Önceki yazıda verdiğim örneği bu yazıda ifade ettiğim gibi ifade edebilirdim ama etmek istemedim. Biraz zaman tanıyanlar, yakından bakanlar geçerli bir akıl yürütme ortaya koyduğumu gördüler.
+
+Kuyuyu zehirleme safsatasını anlattığım yazımda verdiğim örnek açık bir safsata, doğru ama mantık alanında derinleşenler buna benzer her örneğin safsata olmadığını bilirler.
+
+O gün akademik dürüstlükle ilgili bir konuşma yaptığımı düşünün. Hâlâ kuyuyu zehirleme safsatasına düşmüş olacak mıydı beni anons eden kişi? Hayır, olmayacaktı çünkü konu intihal üzerineydi ve uyarı yerinde bir uyarı bile sayılabilirdi.
+
+O hâlde mantıksal analizlerimizde de karşı tarafa yeterli zamanı tanımalıyız. Önce anlamaya çalışmalı, sabretmeli, sonra mantık süzgecimizden geçirmeliyiz.
+
+------------------------------------------------------------
+
